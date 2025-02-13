@@ -1,2 +1,2 @@
 # osask
-&lt;30天自制操作系统>的复刻实现
+[《30天自制操作系统》](https://www.ituring.com.cn/book/910)的复刻实现
